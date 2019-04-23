@@ -1,0 +1,26 @@
+# humanstxt.org/
+# The human responsible & technology colophon
+
+Kumar Nitesh
+kumar-nitesh.com
+knitesh.github.com
+unitfiftyfour.com
+twitter.com/imknitesh
+github.com/knitesh
+
+Boston-ish, MA, USA
+
+/* ****************************************************************************
+*
+*   Website Info:
+*
+**************************************************************************** */
+
+Last updated: 2019.04.23
+
+Technology used:
+
+• React
+• Material UI
+• React Router
+• GitHub hosting
